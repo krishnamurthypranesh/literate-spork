@@ -60,8 +60,8 @@ Ok. This is where things start to get real. This is the part where you start lea
     - Probability
     - Probability distributions
     - Statistics
-        - Basics
-	- Standard Deviation and what it means in real life?
+        - Basics (mean, median, mode)
+	- Different types of data
 
 ## Linear Algebra
     - Matrices and matrix manipulation
