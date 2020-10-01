@@ -153,13 +153,15 @@ Here's a sample learning path you can take:
 
     9. Projects: Ref. the projects section
 
-    10. Start applying for real.
+    10. Interviews -> Start applying for real.
     	10.1. At this point, it's been quite sometime since you started on this journey. You've learned enough. It's time to start applying.
 	10.2. Pick and choose your jobs. Specifically, pick jobs which give you a good base. Check the reputation of the company.
 	10.3. As a rule of thumb, pick jobs which match your skill level. But, don't be intimidated by jobs which seem to be tough. Most of them are not.
 	10.4. If there's a job whose description contains a lot of words you don't know about, but you like the company, apply! You can always learn new stuff. Being passionate about the product is more important than having all the skills.
 	10.5. Track your success rate with the jobs. Learning from your failures is vital here!
+	
     11. You've landed your job! Omedetou!
+    
     12. Pass on this knowledge and help someone else get into this wonderful field!
 
 
