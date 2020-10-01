@@ -205,4 +205,6 @@ Includes:
 
 ## Interviewing
 ??
-This will go on for as long as you land the job you want. So, this part is entirely in your hand. 
+This will go on for as long as you land the job you want. So, this part is entirely in your hand.
+
+Bottomline: Since you will be doing a lot of things parallely (I certainly did), it should take you about 6 months (subject to conditions and more conditions)
